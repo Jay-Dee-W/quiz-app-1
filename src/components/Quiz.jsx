@@ -29,7 +29,7 @@ export default function Quiz() {
         {
             Question: 'In the 1999 movie Fight Club, which of these is not a rule of the "fight club"',
             Answers: ['You do not talk about FIGHT CLUB', 'Only two guys to a fight', "Always wear a shirt", "Fights will go on as long as they have to"],
-            correctAnswer: 3,
+            correctAnswer: 2,
         },
         {
             Question: "How long was Ken Jenning's win streak on Jeopardy?",
